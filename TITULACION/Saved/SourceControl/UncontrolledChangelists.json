@@ -6,11 +6,20 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Github/Titulacion/TITULACION/Content/level1.umap",
-				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/levels/menu.uasset",
 				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/levels/level1.umap",
 				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/level1.umap",
 				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/UI/Menu/Menu_Opciones.uasset",
-				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/UI/MENU/Menu_principal.uasset",
+				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/UI/Menu/Menu_principal.uasset",
+				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/levels/Menu_P.umap",
+				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/levels/Mapa1.umap",
+				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/UI/Fuente/Watanabe.uasset",
+				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/UI/Fuente/Watanabe_Font.uasset",
+				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/UI/Menu/Menu_PRI.uasset",
+				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/UI/sprites/2.uasset",
+				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/UI/sprites/ajustes.uasset",
+				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/UI/sprites/play.uasset",
+				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/UI/sprites/salida.uasset",
+				"C:/Users/Mario/Documents/GitHub/Titulacion/TITULACION/Content/levels/menu.uasset",
 				"D:/Github/Titulacion/TITULACION/Content/levels/menu.uasset"
 			]
 		}
